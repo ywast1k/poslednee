@@ -1,0 +1,15 @@
+E:\GeekBrains\22.09.23\64 que\bin\Debug\net7.0\64 que.exe
+E:\GeekBrains\22.09.23\64 que\bin\Debug\net7.0\64 que.deps.json
+E:\GeekBrains\22.09.23\64 que\bin\Debug\net7.0\64 que.runtimeconfig.json
+E:\GeekBrains\22.09.23\64 que\bin\Debug\net7.0\64 que.dll
+E:\GeekBrains\22.09.23\64 que\bin\Debug\net7.0\64 que.pdb
+E:\GeekBrains\22.09.23\64 que\obj\Debug\net7.0\64 que.csproj.AssemblyReference.cache
+E:\GeekBrains\22.09.23\64 que\obj\Debug\net7.0\64 que.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\22.09.23\64 que\obj\Debug\net7.0\64 que.AssemblyInfoInputs.cache
+E:\GeekBrains\22.09.23\64 que\obj\Debug\net7.0\64 que.AssemblyInfo.cs
+E:\GeekBrains\22.09.23\64 que\obj\Debug\net7.0\64 que.csproj.CoreCompileInputs.cache
+E:\GeekBrains\22.09.23\64 que\obj\Debug\net7.0\64 que.dll
+E:\GeekBrains\22.09.23\64 que\obj\Debug\net7.0\refint\64 que.dll
+E:\GeekBrains\22.09.23\64 que\obj\Debug\net7.0\64 que.pdb
+E:\GeekBrains\22.09.23\64 que\obj\Debug\net7.0\64 que.genruntimeconfig.cache
+E:\GeekBrains\22.09.23\64 que\obj\Debug\net7.0\ref\64 que.dll
